@@ -1,7 +1,7 @@
-#StrEmail
+# StrEmail
 
-##String Operations 
+## *  String Operations 
 
-##Email Permutations 
+## *  Email Permutations 
 
-##Common Emails
+## *  Common Emails
